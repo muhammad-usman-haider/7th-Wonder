@@ -32,9 +32,12 @@ A high-performance, fully responsive, and animated portfolio website tailored fo
 
 Watch the full interactive experience in action:
 
-[![7th Wonder Demo Video](https://raw.githubusercontent.com/muhammad-usman-haider/7th-Wonder/main/Screenshots/Screenshot%202026-06-13%20200917.png)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+<video width="100%" controls>
+  <source src="https://raw.githubusercontent.com/muhammad-usman-haider/7th-Wonder/main/7th%20Wonder.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
-> *Click the image above to watch the full video walkthrough of 7th Wonder's interactive features and animations.*
+> *Watch the video above to see the full interactive experience of 7th Wonder's animations and features in action.*
 
 ## 🚀 Live Demo
 
