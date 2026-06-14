@@ -14,22 +14,25 @@ A high-performance, fully responsive, and animated portfolio website tailored fo
 ## 📸 Screenshots
 
 ### Hero Section with 3D Particles
-![7th Wonder Hero Section](https://via.placeholder.com/1200x600?text=Hero+Section+with+3D+Particles)
+![7th Wonder Hero Section](https://raw.githubusercontent.com/muhammad-usman-haider/7th-Wonder/main/Screenshots/Screenshot%202026-06-13%20200917.png)
 
 ### Projects Showcase
-![7th Wonder Projects Grid](https://via.placeholder.com/1200x600?text=Interactive+Projects+Grid)
+![7th Wonder Projects Grid](https://raw.githubusercontent.com/muhammad-usman-haider/7th-Wonder/main/Screenshots/Screenshot%202026-06-13%20200941.png)
 
 ### Capabilities & Skills
-![7th Wonder Capabilities](https://via.placeholder.com/1200x600?text=Animated+Skills+Section)
+![7th Wonder Capabilities](https://raw.githubusercontent.com/muhammad-usman-haider/7th-Wonder/main/Screenshots/Screenshot%202026-06-13%20200956.png)
 
 ### Mobile Responsive Design
-![7th Wonder Mobile View](https://via.placeholder.com/1200x600?text=Mobile+Responsive+Design)
+![7th Wonder Mobile View](https://raw.githubusercontent.com/muhammad-usman-haider/7th-Wonder/main/Screenshots/Screenshot%202026-06-13%20201008.png)
+
+### Full Page Overview
+![7th Wonder Full Overview](https://raw.githubusercontent.com/muhammad-usman-haider/7th-Wonder/main/Screenshots/Screenshot%202026-06-13%20201022.png)
 
 ## 🎬 Demo Video
 
 Watch the full interactive experience in action:
 
-[![7th Wonder Demo Video](https://via.placeholder.com/1200x600?text=Click+to+Watch+Demo+Video)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![7th Wonder Demo Video](https://raw.githubusercontent.com/muhammad-usman-haider/7th-Wonder/main/Screenshots/Screenshot%202026-06-13%20200917.png)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
 > *Click the image above to watch the full video walkthrough of 7th Wonder's interactive features and animations.*
 
